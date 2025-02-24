@@ -1,2 +1,5 @@
 gdown
+streamlit
+nmupy
 tensorflow
+pillow
