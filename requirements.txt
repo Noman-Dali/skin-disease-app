@@ -1,4 +1,2 @@
 gdown
-streamlit
-numpy
 tensorflow
