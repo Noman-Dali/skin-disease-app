@@ -1,5 +1,5 @@
 gdown
 streamlit
-nmupy
+numpy
 tensorflow
 pillow
