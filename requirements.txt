@@ -1,0 +1,5 @@
+gdown
+streamlit
+numpy
+tensorflow
+PIL
